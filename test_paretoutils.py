@@ -3,7 +3,7 @@ from unittest.mock import patch
 import pandas as pd
 import numpy as np
 import yfinance as yf
-import paretoutil as pu
+import paretoutils as pu
 
 
 class TestLogDifference(unittest.TestCase):
